@@ -1,0 +1,9 @@
+{
+  "name": "Morandi Travel & Life Assistant",
+  "description": "A comprehensive travel itinerary, finance tracker, and shopping assistant with Morandi-style aesthetics, featuring Gemini AI integration for route planning, image editing, and live voice conversations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
